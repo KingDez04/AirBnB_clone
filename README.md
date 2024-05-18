@@ -1,7 +1,7 @@
-<h1>ALX AirBnB Clone</h1>
+<h1>AirBnB Clone</h1>
 
 <h2>Description of the Project</h2>
-The ALX AirBnB Clone is a project that aims to replicate the core functionalities of the popular vacation rental website, AirBnB. This project is part of the ALX Software Engineering program, where students learn and apply various software development concepts by building a simplified version of the AirBnB website.
+The AirBnB Clone is a project that aims to replicate the core functionalities of the popular vacation rental website, AirBnB by building a simplified version of the AirBnB website.
 
 The project is divided into several parts, each focusing on different aspects of web development:
 <ul>
@@ -31,16 +31,16 @@ To start the command interpreter, follow these steps:
 <h3>How to Use It</h3>
 Once the command interpreter is running, you can use various commands to manage the application's data. Here are some of the key commands:
 <ul>
-<li><strong>help <command></strong>: Displays help information for a specific command.</li>
-<li><strong>create <class></strong>: Creates a new instance of a class.</li>
-<li><strong>show <class> <id></strong>: Displays the details of an instance based on its class and ID.</li>
-<li><strong>destroy <class> <id></strong>: Deletes an instance based on its class and ID.</li>
-<li><strong>all [<class>]</strong>: Displays all instances, or all instances of a specific class.</li>
-<li><strong>update <class> <id> <attribute name> <attribute value></strong>: Updates an attribute of an instance based on its class and ID.</li>
+<li><strong>help "<"command></strong>: Displays help information for a specific command.</li>
+<li><strong>create "<"class></strong>: Creates a new instance of a class.</li>
+<li><strong>show "<"class> "<"id></strong>: Displays the details of an instance based on its class and ID.</li>
+<li><strong>destroy "<"class> "<"id></strong>: Deletes an instance based on its class and ID.</li>
+<li><strong>all ["<"class>]</strong>: Displays all instances, or all instances of a specific class.</li>
+<li><strong>update "<"class> "<"id> "<"attribute name> "<"attribute value></strong>: Updates an attribute of an instance based on its class and ID.</li>
 </ul>
 <h3>Examples</h3>
 Here are some examples of how to use the command interpreter:
 <ul>
 <li><strong>Create a new user</strong>:<br>(hbnb) create User</li>
-<li><strong>Destroy a user</strong>:<br>(hbnb) destroy User 1234-5678-9101</li>
+<li><strong>Destroy a user</strong>:<br>(hbnb) destroy User 9101-4213-8576</li>
 </ul>
