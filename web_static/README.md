@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the AirBnB clone series, focusing on creating the static web pages for the AirBnB clone. The goal is to design and implement the static web pages that will be used to create the user interface of the AirBnB clone.
+This project is part of the AirBnB_clone series, focusing on creating the static web pages for the AirBnB_clone. The goal is to design and implement the static web pages that will be used to create the user interface of the AirBnB_clone.
 
 ## Technologies Used
 
